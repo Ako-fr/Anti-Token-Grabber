@@ -3,4 +3,6 @@
 <h1>Installation : </h1>
 <h2>Aucun modules n'est a installer, car il s'installe automatiquement</h2><br>
 <h1> Utilisation : </h1>
-<h2> - Il vous suffis d'excutez le programme en python<br>- Indiquez le fichier a vérifiez<br>- Puis laissez faire le programmme</h2>
+<h2> - Il vous suffis d'excutez le programme en python<br>- Indiquez le fichier a vérifiez<br>- Puis laissez faire le programmme</h2><br>
+<h1> Discord :</h1>
+<h2>Rejoindre le serveur support : <a href="https://discord.gg/gFkwb4F673">Clique ici</a></h2>
