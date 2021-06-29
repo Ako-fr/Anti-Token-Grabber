@@ -148,14 +148,14 @@ for ligne in fichier:
                     else: 
                         print("[*] Veuillez entrez une commande valide")
                 else:
-                    print("Veuillez entrez une commande valide")
+                    print("[*] Veuillez entrez une commande valide")
                     input("[*] Appuyez pour quittez...")
             else:
-                print("Veuillez entrez une commande valide")
+                print("[*] Veuillez entrez une commande valide")
                 input("[*] Appuyez pour quittez...")
         elif not web in fichier:
             print("[*] Je n'est rien trouvé")
-            decop = input("Voulez-vous décompilez le fichier : ")
+            decop = input("[*] Voulez-vous décompilez le fichier : ")
             decompilation(fichier)
 
 # Anti Token Grabber by >Ako’#7882
