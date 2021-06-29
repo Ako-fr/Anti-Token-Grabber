@@ -1,3 +1,5 @@
+# Ce décompilateur n'est pas dev par moi il est dispo sur github !
+
 import os
 import struct
 import marshal
