@@ -2,15 +2,12 @@
 # Discord : https://discord.gg/gFkwb4F673
 
 from os import system
-system("title Installation des modules")
 
-try: import colorama
-except: system("pip install colorama")
+try: import colorama, requests
+except: system("pip install -r requirements.txt")
+  
 from colorama import Fore, init
 init()
-
-try: import requests
-except: system("pip install requests")
 from requests import delete, get
 
 yes = ['yes', 'oui', 'Yes', 'Oui', 'y', 'o', 'Y', 'O']
